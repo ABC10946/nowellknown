@@ -1,0 +1,15 @@
+{
+  "name": "nowellknown",
+  "version": "1.0.0",
+  "description": "make a port number that is not wellknown.",
+  "main": "main.js",
+  "scripts": {
+    "start" : "electron .", 
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ABC10946",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^15.3.1"
+  }
+}
